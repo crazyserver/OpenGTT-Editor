@@ -3,6 +3,9 @@ OpenGTT-Editor
 
 Javascript client editor for Garmin Language files
 
+Service avalaible at:
+http://opengtt.clausdevidre.com/
+
 Author: Pau Ferrer Ocaña @crazyserver
 
 
