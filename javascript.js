@@ -47,7 +47,7 @@ function loadOriginalFile(content){
     var tag = str.find("tag").text();
     var original = str.find("txt").text();
     if(original != "" && original != "undefined"){
-      $('#'+tag+'.edit').val('value',original);
+      $('#'+tag+'.edit').val(original);
       var group = $('#'+tag+'.edit').parents('.form-group');
       group.removeClass("has-error");
       group.removeClass("has-warning");
